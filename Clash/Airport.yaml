@@ -1,5 +1,5 @@
- payload:
- # cnix(ssrcloud)
+payload:
+# cnix(ssrcloud)
   - DOMAIN,ntt-co-jp.club
   - DOMAIN,xn--d4ty0ojsqzfd.com
   - DOMAIN,xn--mesh0sv88c.com
