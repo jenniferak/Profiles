@@ -1,0 +1,17 @@
+payload:
+# Win
+ # OneDrive
+  - PROCESS-NAME,FileCoAuth.exe
+  - PROCESS-NAME,FileSyncConfig.exe
+  - PROCESS-NAME,FileSyncHelper.exe
+  - PROCESS-NAME,Microsoft.Nucleus.exe
+  - PROCESS-NAME,Microsoft.Nucleus.NativeMessagingClient.exe
+  - PROCESS-NAME,OneDrive.exe
+  - PROCESS-NAME,OneDriveFileLauncher.exe
+  - PROCESS-NAME,OneDriveSetup.exe
+  - PROCESS-NAME,OneDriveStandaloneUpdater.exe
+  - PROCESS-NAME,OneDriveUpdaterService.exe
+# Android
+  - PROCESS-NAME,com.microsoft.skydrive
+  - PROCESS-NAME,com.azure.authenticator
+  - PROCESS-NAME,com.microsoft.office.outlook
