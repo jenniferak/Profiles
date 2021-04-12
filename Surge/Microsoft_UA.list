@@ -1,0 +1,6 @@
+# OneDrive
+USER-AGENT,OneDrive*
+# Authenticator
+USER-AGENT,Microsoft Authenticator*
+# Outlook
+USER-AGENT,Outlook*
