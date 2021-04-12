@@ -4,3 +4,5 @@ USER-AGENT,OneDrive*
 USER-AGENT,Microsoft Authenticator*
 # Outlook
 USER-AGENT,Outlook*
+
+USER-AGENT,Microsoft*
