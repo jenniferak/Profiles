@@ -1,5 +1,6 @@
 payload:
-# OneDrive
+# Win
+ # OneDrive
   - PROCESS-NAME,FileCoAuth.exe
   - PROCESS-NAME,FileSyncConfig.exe
   - PROCESS-NAME,FileSyncHelper.exe
@@ -10,7 +11,7 @@ payload:
   - PROCESS-NAME,OneDriveSetup.exe
   - PROCESS-NAME,OneDriveStandaloneUpdater.exe
   - PROCESS-NAME,OneDriveUpdaterService.exe
-# Dropbox
+ # Dropbox
   - PROCESS-NAME,DropboxUpdate.exe
   - PROCESS-NAME,DropboxUpdateSetup_1.3.415.1.exe
   - PROCESS-NAME,DropboxClient_116.4.368.exe
@@ -20,10 +21,24 @@ payload:
   - PROCESS-NAME,Dropbox.exe
   - PROCESS-NAME,DropboxUninstaller.exe
   - PROCESS-NAME,DropboxThumbnailGenerator.exe
-  - PROCESS-NAME,QtWebEngineProcess.exe
   - PROCESS-NAME,dbxsvc.exe
-# Telegram
+ # Telegram
   - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,Updater.exe
-# 1Password
+ # 1Password
   - PROCESS-NAME,1Password.exe
+# Android
+  # Google服务
+  - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.google.android.syncadapters.calendar
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.gsf.login
+  - PROCESS-NAME,com.google.android.syncadapters.contacts
+  
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.google.android.gm
+  - PROCESS-NAME,com.google.android.apps.googlevoice
+  
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,com.twitter.android
+  - PROCESS-NAME,com.agilebits.onepassword
+  - PROCESS-NAME,com.microsoft.skydrive
