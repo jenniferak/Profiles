@@ -1,0 +1,10 @@
+#!name=Get 10086feecookie
+#!desc=该模块适用于中国移动APP获取autologin和getfee，用于Scriptable
+#!system=ios
+
+[Script]
+中国移动-autoLogin = type=http-request,pattern=^https:\/\/clientaccess.10086.cn\/biz-orange\/LN\/uamrandcodelogin\/autoLogin,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.fee.cookie.js
+中国移动-getRealFee = type=http-request,pattern=^https:\/\/clientaccess.10086.cn\/biz-orange\/BN\/realFeeQuery\/getRealFee,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.fee.cookie.js
+
+[MITM]
+hostname = %APPEND% clientaccess.10086.cn
