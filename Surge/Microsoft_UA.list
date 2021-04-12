@@ -6,4 +6,4 @@ USER-AGENT,Microsoft Authenticator*
 # Outlook
 USER-AGENT,Outlook*
 
-USER-AGENT,Microsoft*
+#USER-AGENT,Microsoft*
