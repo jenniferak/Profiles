@@ -1,8 +1,8 @@
 # OneDrive
 USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
+# USER-AGENT,OneDriveiOSApp*
 # Authenticator
-#USER-AGENT,Microsoft%20Authenticator*
+# USER-AGENT,Microsoft%20Authenticator*
 # Outlook
 USER-AGENT,Outlook*
 
