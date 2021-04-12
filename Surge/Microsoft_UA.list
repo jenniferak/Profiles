@@ -2,7 +2,7 @@
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 # Authenticator
-USER-AGENT,Microsoft Authenticator*
+USER-AGENT,Microsoft%20Authenticator*
 # Outlook
 USER-AGENT,Outlook*
 
