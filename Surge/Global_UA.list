@@ -1,1 +1,12 @@
+# Gmail
+USER-AGENT,Gmail*
+# VoiceApp
+USER-AGENT,VoiceApp*
+# Telegram
 
+# Twitter
+USER-AGENT,Twitter*
+# 1Password
+
+# OneDrive
+USER-AGENT,OneDrive*
