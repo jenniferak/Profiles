@@ -7,7 +7,7 @@ USER-AGENT,VoiceApp*
 # Twitter
 USER-AGENT,Twitter*
 # 1Password
-
+USER-AGENT,1Password*
 # Authy
 USER-AGENT,Authy*
 # OneDrive
