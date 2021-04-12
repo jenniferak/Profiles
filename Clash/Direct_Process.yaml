@@ -1,12 +1,5 @@
 payload:
 # QQ
-  - PROCESS-NAME,auclt.exe
-  - PROCESS-NAME,bugreport.exe
-  - PROCESS-NAME,cabarc.exe
-  - PROCESS-NAME,maLauncher.exe
-  - PROCESS-NAME,maUpdat.exe
-  - PROCESS-NAME,minibrowser.exe
-  - PROCESS-NAME,QPerfHelper.exe
   - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,QQApp.exe
   - PROCESS-NAME,QQCallbr.exe
@@ -29,28 +22,15 @@ payload:
   - PROCESS-NAME,TxBugReport.exe
   - PROCESS-NAME,TXPlatform.exe
   - PROCESS-NAME,txupd.exe
-  - PROCESS-NAME,uninst.exe
 # 百度网盘
-  - PROCESS-NAME,autodiagnoseupdate.exe
-  - PROCESS-NAME,Autoupdate.exe
   - PROCESS-NAME,baidunetdisk.exe
   - PROCESS-NAME,baidunetdiskhost.exe
   - PROCESS-NAME,baidunetdiskrender.exe
-  - PROCESS-NAME,bugreport.exe
-  - PROCESS-NAME,helputility.exe
-  - PROCESS-NAME,kernelupdate.exe
-  - PROCESS-NAME,serviceassistans.exe
-  - PROCESS-NAME,uninst.exe
-  - PROCESS-NAME,yundetectservice.exe
-  - PROCESS-NAME,yunutilityservice.exe
 # 迅雷
-  - PROCESS-NAME,APlayer.exe
-  - PROCESS-NAME,BHOInstall.exe
   - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,InstallXLGuard.exe
   - PROCESS-NAME,InstallXLWFP.exe
   - PROCESS-NAME,LiveUDInstaller.exe
-  - PROCESS-NAME,SysPin.exe
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,ThunderBHOPlatform.exe
   - PROCESS-NAME,ThunderCmd.exe
@@ -60,7 +40,6 @@ payload:
   - PROCESS-NAME,ThunderUninstall.exe
   - PROCESS-NAME,UninstallXLWFP.exe
   - PROCESS-NAME,upnp.exe
-  - PROCESS-NAME,Win7AppId.exe
   - PROCESS-NAME,xlbrowsershell.exe
   - PROCESS-NAME,XLBugReport.exe
   - PROCESS-NAME,XLFileAssistant.exe
