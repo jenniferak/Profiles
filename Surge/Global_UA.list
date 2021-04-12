@@ -8,6 +8,8 @@ USER-AGENT,VoiceApp*
 USER-AGENT,Twitter*
 # 1Password
 
+# Authy
+USER-AGENT,Authy*
 # OneDrive
 USER-AGENT,OneDrive*
 #USER-AGENT,OneDriveiOSApp*
