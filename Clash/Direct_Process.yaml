@@ -27,6 +27,7 @@ payload:
   - PROCESS-NAME,baidunetdiskhost.exe
   - PROCESS-NAME,baidunetdiskrender.exe
 # 迅雷
+  - PROCESS-NAME,APlayer.exe
   - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,InstallXLGuard.exe
   - PROCESS-NAME,InstallXLWFP.exe
