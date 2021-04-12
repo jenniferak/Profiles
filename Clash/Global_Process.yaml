@@ -26,6 +26,8 @@ payload:
   - PROCESS-NAME,Telegram.exe
  # 1Password
   - PROCESS-NAME,1Password.exe
+ # Authy
+  - PROCESS-NAME,Authy Desktop.exe
 # Android
   # Google服务
   - PROCESS-NAME,com.google.android.gms
@@ -41,4 +43,5 @@ payload:
   - PROCESS-NAME,org.telegram.messenger
   - PROCESS-NAME,com.twitter.android
   - PROCESS-NAME,com.agilebits.onepassword
+  - PROCESS-NAME,com.authy.authy
   - PROCESS-NAME,com.microsoft.skydrive
