@@ -1,1 +1,5 @@
-
+# YouTube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+# Netflix
+USER-AGENT,Argo*
