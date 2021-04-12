@@ -10,4 +10,4 @@ USER-AGENT,Twitter*
 
 # OneDrive
 USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
+#USER-AGENT,OneDriveiOSApp*
