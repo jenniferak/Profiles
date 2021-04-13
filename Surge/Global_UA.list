@@ -3,7 +3,7 @@ USER-AGENT,Gmail*
 # VoiceApp
 USER-AGENT,VoiceApp*
 # Telegram
-
+USER-AGENT,Telegram*
 # Twitter
 USER-AGENT,Twitter*
 # 1Password
