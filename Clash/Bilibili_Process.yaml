@@ -1,0 +1,4 @@
+payload:
+  - PROCESS-NAME,tv.danmaku.bili
+  - PROCESS-NAME,com.bilibili.app.blue
+  - PROCESS-NAME,com.bilibili.app.in
