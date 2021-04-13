@@ -24,6 +24,7 @@ USER-AGENT,bili-hd2*
 USER-AGENT,bili-universal*
 USER-AGENT,bili-blue*
 USER-AGENT,Bilibili*
+#USER-AGENT,哔哩哔哩概念*
 #USER-AGENT,%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5*
 # 哔哩哔哩漫画
 USER-AGENT,comic-universal*
