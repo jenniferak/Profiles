@@ -1,0 +1,35 @@
+payload:
+# Ubisoft Game Launcher
+  - PROCESS-NAME,UbisoftConnect.exe
+  - PROCESS-NAME,UbisoftGameLauncher.exe
+  - PROCESS-NAME,UbisoftGameLauncher64.exe
+  - PROCESS-NAME,Uninstall.exe
+  - PROCESS-NAME,upc.exe
+  - PROCESS-NAME,UplayCrashReporter.exe
+  - PROCESS-NAME,UplayService.exe
+  - PROCESS-NAME,UplayWebCore.exe
+# Epic
+  - PROCESS-NAME,LauncherPrereqSetup_x64.exe
+  - PROCESS-NAME,OriginThinSetup.exe
+  - PROCESS-NAME,InstallChainer.exe
+  - PROCESS-NAME,EpicGamesLauncher.exe
+  - PROCESS-NAME,EpicWebHelper.exe
+  - PROCESS-NAME,UnrealEngineLauncher.exe
+  - PROCESS-NAME,UnrealVersionSelector.exe
+# Origin
+  - PROCESS-NAME,EALink.exe
+  - PROCESS-NAME,EAProxyInstaller.exe
+  - PROCESS-NAME,EASteamProxy.exe
+  - PROCESS-NAME,Origin.exe
+  - PROCESS-NAME,OriginClientService.exe
+  - PROCESS-NAME,OriginCrashReporter.exe
+  - PROCESS-NAME,OriginER.exe
+  - PROCESS-NAME,OriginThinSetupInternal.exe
+  - PROCESS-NAME,OriginUninstall.exe
+  - PROCESS-NAME,OriginWebHelperService.exe
+  - PROCESS-NAME,EACoreServer.exe
+  - PROCESS-NAME,OriginLegacyCLI.exe
+# Rockstar Games Launcher
+  - PROCESS-NAME,RockstarService.exe
+  - PROCESS-NAME,RockstarSteamHelper.exe
+  - PROCESS-NAME,Social-Club-Setup.exe
