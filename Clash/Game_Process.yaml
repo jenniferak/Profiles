@@ -9,7 +9,6 @@ payload:
   - PROCESS-NAME,UplayService.exe
   - PROCESS-NAME,UplayWebCore.exe
 # Epic
-  - PROCESS-NAME,LauncherPrereqSetup_x64.exe
   - PROCESS-NAME,OriginThinSetup.exe
   - PROCESS-NAME,InstallChainer.exe
   - PROCESS-NAME,EpicGamesLauncher.exe
