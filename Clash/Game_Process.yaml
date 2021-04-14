@@ -9,6 +9,7 @@ payload:
   - PROCESS-NAME,UplayService.exe
   - PROCESS-NAME,UplayWebCore.exe
 # Epic
+  - DOMAIN-SUFFIX,unrealengine.com
   - PROCESS-NAME,EpicGamesLauncher.exe
   - PROCESS-NAME,EpicWebHelper.exe
   - PROCESS-NAME,OriginThinSetup.exe
