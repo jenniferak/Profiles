@@ -32,3 +32,4 @@ payload:
   - PROCESS-NAME,RockstarService.exe
   - PROCESS-NAME,RockstarSteamHelper.exe
   - PROCESS-NAME,Social-Club-Setup.exe
+  - PROCESS-NAME,SocialClubHelper.exe
