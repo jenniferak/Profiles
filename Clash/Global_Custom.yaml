@@ -46,3 +46,11 @@ payload:
   - PROCESS-NAME,com.agilebits.onepassword
   - PROCESS-NAME,com.authy.authy
   - PROCESS-NAME,com.microsoft.skydrive
+  
+  
+  
+  - DOMAIN-SUFFIX,agilebits.com
+  - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,authy.com
+  - DOMAIN-SUFFIX,kinesis.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,v2rayssr.com
