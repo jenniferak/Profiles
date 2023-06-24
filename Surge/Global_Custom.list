@@ -1,0 +1,206 @@
+# > OneDrive
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+# > Microsoft
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-KEYWORD,-microsoft.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,vo.msecnd.net
+# > 1Password
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,agilebits.com
+DOMAIN-SUFFIX,pwnedpasswords.com
+
+# 机场
+# > Nexitally
+DOMAIN,nexitally.net
+DOMAIN,naixii.com
+DOMAIN,naiyouu.com
+
+DOMAIN,nexconvert.com
+DOMAIN-SUFFIX,sublink.dev
+# > AmyTelecom
+DOMAIN,www.amytele.net
+DOMAIN,www.amysecure.com
+
+DOMAIN,amyconvert.com
+
+DOMAIN,api.nxtlnodes.com
+# > kuromi
+DOMAIN,www.kuromis.com
+# > TAG
+DOMAIN-SUFFIX,tagss.pro
+DOMAIN-SUFFIX,tagss01.pro
+DOMAIN-SUFFIX,tagweb.vip
+# > ImmTelecom
+DOMAIN,immtel.com
+DOMAIN,fuckimm.com
+
+DOMAIN,immconvert.com
+# > FlowerCloud
+DOMAIN,huacloud.icu
+DOMAIN,flowercloud.net
+DOMAIN,flower.yt
+
+DOMAIN,api.huacloud.xyz
+DOMAIN,api.flowercloud.xyz
+
+DOMAIN,help.huacloud.dev
+# > Texon
+DOMAIN-SUFFIX,texon.io
+# > YToo 歪兔
+DOMAIN,ytoo.cz
+DOMAIN,oxycontin.top
+DOMAIN,to-ytoo.xyz
+DOMAIN,stentvessel.shop
+DOMAIN,aroundthepacific.com
+# > YToo简易教程
+DOMAIN,ytoo.nameless13.com
+# > V2Tun
+DOMAIN,cp.v2tun.us
+# > 魅影极速
+DOMAIN,www.maying.co
+# > Ark
+DOMAIN,ark.to
+# > prprCloud
+DOMAIN-SUFFIX,prprcloud.moe
+DOMAIN,prpr.96110.cn.com    
+# > cnix(ssrcloud)
+DOMAIN,clashcloud.org
+DOMAIN,xn--d4ty0ojsqzfd.com
+DOMAIN,xn--mesh0sv88c.com
+DOMAIN,114514.gay
+DOMAIN,xn--eck3aax7vbbk4l.com
+
+DOMAIN,fast.losadhwselfff2332dasd.xyz
+# > HutaoCloud
+DOMAIN,hutao.cloud
+
+DOMAIN,hutaod.com
+
+DOMAIN,hutaosubconverter.com
+# > NaikoCloud
+DOMAIN,naiko.cloud
+# > FishPort
+DOMAIN,front.fishport.cloud
+# > Just My Socks
+DOMAIN,justmysocks.net
+DOMAIN,justmysocks2.net
+DOMAIN,justmysocks3.net
+DOMAIN,justmysocks4.net
+# Other
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN-SUFFIX,gitter-static.net
+DOMAIN-SUFFIX,gitter.im
+DOMAIN-SUFFIX,rocketgirls.space
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,authy.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion-static.com
+
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN,www.surge-activation.com
+DOMAIN-SUFFIX,quantumult.app
+DOMAIN-SUFFIX,getsurfboard.com
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN,lancellc.gitbook.io
+DOMAIN,docs.cfw.lbyczf.com
+DOMAIN-SUFFIX,divineengine.net
+DOMAIN,www.ipaddressguide.com
+DOMAIN-SUFFIX,dandanplay.net
+DOMAIN-SUFFIX,infuse.im
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com
+
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,namesilo.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN,mozilla.cloudflare-dns.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,digitalcertvalidation.com
+DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,workingcopyapp.com
+DOMAIN-SUFFIX,livechatinc.com
+DOMAIN,api.snapkit.com
+DOMAIN-SUFFIX,utteranc.es
+DOMAIN-SUFFIX,rul.ai
+DOMAIN,subweb.s3.fr-par.scw.cloud
+DOMAIN-SUFFIX,eu.org
+
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,misaka.io
+DOMAIN-SUFFIX,greencloudvps.com
+DOMAIN-SUFFIX,hytron.io
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bwh1.net
+DOMAIN-SUFFIX,bwh8.net
+DOMAIN-SUFFIX,bwh88.net
+DOMAIN-SUFFIX,bwh89.net
+DOMAIN-SUFFIX,bwh81.net
+DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,cloudcone.com.cn
+DOMAIN-SUFFIX,racknerd.com
+DOMAIN-SUFFIX,virmach.com
+DOMAIN-SUFFIX,vpsgo.com
+DOMAIN-SUFFIX,bandwagonhost.net
+DOMAIN-SUFFIX,bwg.net
+DOMAIN,ping0.cc
+DOMAIN-SUFFIX,nodeseek.com
+
+DOMAIN-SUFFIX,69park.com
+DOMAIN-SUFFIX,woowoowoo.xyz
+
+DOMAIN-SUFFIX,h-comic.site
+DOMAIN-SUFFIX,mxshm.top
+DOMAIN-SUFFIX,mxshm.site
+DOMAIN-SUFFIX,jjmhw.cc
+DOMAIN-SUFFIX,comicimgs.com
+DOMAIN-SUFFIX,92hm.top
+DOMAIN-SUFFIX,92hm.life
+DOMAIN-SUFFIX,99hanman.top
+DOMAIN-SUFFIX,5ikanwxz.top
+DOMAIN-SUFFIX,9ihm.top
+DOMAIN-SUFFIX,5iwxz.top
+DOMAIN-SUFFIX,592mh.top
+DOMAIN-SUFFIX,592hm.top
+DOMAIN-SUFFIX,52wxz.top
+DOMAIN-SUFFIX,52kanmh.top
+DOMAIN-SUFFIX,52kanhm.top
+DOMAIN-SUFFIX,52kanhm.top
+DOMAIN-SUFFIX,52hmw.top
+DOMAIN-SUFFIX,92comic.top

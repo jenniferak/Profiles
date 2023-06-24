@@ -1,0 +1,13 @@
+payload:
+  - PROCESS-NAME,org.zwanoo.android.speedtest
+  - PROCESS-NAME,Speedtest.exe
+  # > Fast
+  - DOMAIN-SUFFIX,fast.com
+  # > Speedtest by Ookla
+  - DOMAIN,b.cdnst.net
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-KEYWORD,ookla
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN,speed.dler.io
+  # > Speed Test by Cloudflare
+  - DOMAIN-SUFFIX,speed.cloudflare.com

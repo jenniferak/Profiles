@@ -1,0 +1,58 @@
+# > Windows Server Update Services
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN,download.microsoft.com
+DOMAIN,wustat.windows.com
+DOMAIN,ntservicepack.microsoft.com
+# > Office Download
+DOMAIN,officecdn.microsoft.com
+DOMAIN-SUFFIX,cdn.office.net
+DOMAIN-SUFFIX,officeapps.live.com
+# > cn
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,gov.cn
+# > 测速网
+DOMAIN-SUFFIX,speedtest.cn
+# > PikPak
+DOMAIN-SUFFIX,mypikpak.com
+# > 爱看电影网
+DOMAIN-SUFFIX,ikvideo.org
+DOMAIN-SUFFIX,ikandy.fun
+DOMAIN-SUFFIX,ikandy1.fun
+# > 中国移动cmlink
+DOMAIN-SUFFIX,cmlink.com
+# > 无忧行
+DOMAIN-SUFFIX,jegotrip.com.cn
+IP-CIDR,15.184.0.0/16,no-resolve
+IP-CIDR,18.139.11.0/24,no-resolve
+IP-CIDR,18.162.0.0/16,no-resolve
+IP-CIDR,18.163.0.0/16,no-resolve
+IP-CIDR,18.166.0.0/16,no-resolve
+IP-CIDR,52.74.27.0/24,no-resolve
+IP-CIDR,188.116.30.0/24,no-resolve
+# > 学术
+DOMAIN-SUFFIX,editorialmanager.com
+DOMAIN-KEYWORD,elsevier
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-KEYWORD,sciencedirect
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-KEYWORD,engineeringvillage
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-KEYWORD,webofscience
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,clarivate.io
+DOMAIN-SUFFIX,publons.com
+
+DOMAIN-KEYWORD,www.yydstxt.
+DOMAIN-KEYWORD,yydstxt426.com
+DOMAIN-KEYWORD,diyibanzhu.cc
+DOMAIN-KEYWORD,yydstxt178.com
+DOMAIN-SUFFIX,01bzvip1.cc
+
+DOMAIN,www.msftconnecttest.com
+IP-CIDR,172.10.255.9/32,no-resolve
+IP-CIDR,202.200.123.8/32,no-resolve
+IP-CIDR,123.123.123.123/32,no-resolve

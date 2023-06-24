@@ -1,0 +1,54 @@
+payload:
+  # > QQ
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,QQProtect.exe
+  - PROCESS-NAME,QQCallhx.exe
+  - PROCESS-NAME,txupd.exe
+  # > 微信
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,WechatBrowser.exe
+  - PROCESS-NAME,WeChatUpdate.exe
+  # > 百度网盘
+  - PROCESS-NAME,baidunetdisk.exe
+  - PROCESS-NAME,baidunetdiskhost.exe
+  - PROCESS-NAME,baidunetdiskrender.exe
+  - PROCESS-NAME,yundetectservice.exe
+  # > 阿里云盘
+  - PROCESS-NAME,aDrive.exe
+  # > 迅雷
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,DownloadSDKServer.exe
+  - PROCESS-NAME,xlbrowsershell.exe
+  - PROCESS-NAME,XLLiveUD.exe
+  - PROCESS-NAME,upnp.exe
+  # > QQ音乐
+  - PROCESS-NAME,QQMusic.exe
+  - PROCESS-NAME,QQMusicUp.exe
+  - PROCESS-NAME,qmbrowser.exe
+  - PROCESS-NAME,QMWeiyun.exe
+  # > 腾讯课堂
+  - PROCESS-NAME,TXEDU.exe
+  # > 腾讯会议
+  - PROCESS-NAME,wemeetapp.exe
+  - PROCESS-NAME,TBSWebRenderer.exe
+  # > ToDesk
+  - PROCESS-NAME,ToDesk.exe
+  # > 向日葵
+  - PROCESS-NAME,SunloginClient.exe
+  # > Other
+  - PROCESS-NAME,v2ray.exe
+  - PROCESS-NAME,ss-local.exe
+  - PROCESS-NAME,UUBooster.exe
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,Folx.exe
+  - PROCESS-NAME,NetTransport.exe
+  - PROCESS-NAME,Transmission.exe
+  - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,WebTorrent.exe
+  - PROCESS-NAME,WebTorrent Helper.exe
+  # > Office Download
+  - PROCESS-NAME,OfficeSetup.exe
+  - PROCESS-NAME,OfficeClickToRun.exe
+  - PROCESS-NAME,OfficeC2RClient.exe

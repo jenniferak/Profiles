@@ -1,0 +1,36 @@
+payload:
+  # 自定义
+  # Win
+  # > OneDrive
+  - PROCESS-NAME,OneDrive.exe
+  - PROCESS-NAME,OneDriveUpdaterService.exe
+  # > Dropbox
+  - PROCESS-NAME,Dropbox.exe
+  - PROCESS-NAME,DropboxUpdate.exe
+  # > Authy
+  - PROCESS-NAME,Authy Desktop.exe
+  # Android
+  # > Google服务
+  - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.google.android.syncadapters.calendar
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.gsf.login
+  - PROCESS-NAME,com.google.android.syncadapters.contacts
+
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.google.android.gm
+  - PROCESS-NAME,com.google.android.apps.googlevoice
+
+  - PROCESS-NAME,com.netflix.mediaclient,Proxy
+  - PROCESS-NAME,com.google.android.youtube,Proxy
+  - PROCESS-NAME,com.google.android.apps.youtube.music,Proxy
+
+  - PROCESS-NAME,com.twitter.android
+  - PROCESS-NAME,com.authy.authy
+  - PROCESS-NAME,com.microsoft.skydrive
+  - PROCESS-NAME,com.instagram.android
+  - PROCESS-NAME,com.facebook.katana
+  - PROCESS-NAME,com.facebook.lite
+  # > 1Password
+  - PROCESS-NAME,1Password.exe
+  - PROCESS-NAME,com.agilebits.onepassword
