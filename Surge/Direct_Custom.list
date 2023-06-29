@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.com.cn
 # > 邮储银行
-DOMAIN-SUFFIX,pspc.com
+DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,ipify.org
 # > 中国移动
 DOMAIN-SUFFIX,10086.cn
