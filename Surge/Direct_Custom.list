@@ -13,16 +13,35 @@ DOMAIN-SUFFIX,officeapps.live.com
 # > cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.cn
-# > 测速网
-DOMAIN-SUFFIX,speedtest.cn
-# > PikPak
-DOMAIN-SUFFIX,mypikpak.com
-# > 爱看电影网
-DOMAIN-SUFFIX,ikvideo.org
-DOMAIN-SUFFIX,ikandy.fun
-DOMAIN-SUFFIX,ikandy1.fun
-# > 中国移动cmlink
-DOMAIN-SUFFIX,cmlink.com
+# > 云闪付
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,cup.com.cn
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,xaykt.com
+DOMAIN-SUFFIX,globalsign.com
+# > 番茄小说
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,fqnovelvod.com
+DOMAIN-SUFFIX,fqnovelstatic.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytemaimg.com
+# > 欧路词典
+DOMAIN-SUFFIX,eudic.net
+DOMAIN-SUFFIX,esdict.cn
+DOMAIN-SUFFIX,frdic.com
+# > 中国银行
+DOMAIN-SUFFIX,boc.cn
+# > 中国农业银行
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,abchina.com.cn
+# > 邮储银行
+DOMAIN-SUFFIX,pspc.com
+DOMAIN-SUFFIX,ipify.org
+# > 中国移动
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,miguvideo.com
 # > 无忧行
 DOMAIN-SUFFIX,jegotrip.com.cn
 IP-CIDR,15.184.0.0/16,no-resolve
@@ -32,6 +51,20 @@ IP-CIDR,18.163.0.0/16,no-resolve
 IP-CIDR,18.166.0.0/16,no-resolve
 IP-CIDR,52.74.27.0/24,no-resolve
 IP-CIDR,188.116.30.0/24,no-resolve
+# > 中国移动cmlink
+DOMAIN-SUFFIX,cmlink.com
+# > 中国电信
+DOMAIN-SUFFIX,189.cn
+# > Todesk
+DOMAIN-SUFFIX,todesk.com
+# > 向日葵
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,oray.net
+# > 测速网
+DOMAIN-SUFFIX,speedtest.cn
+# > PikPak
+DOMAIN-SUFFIX,mypikpak.com
 # > 学术
 DOMAIN-SUFFIX,editorialmanager.com
 DOMAIN-KEYWORD,elsevier
