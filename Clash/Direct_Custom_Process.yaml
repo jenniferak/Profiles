@@ -31,6 +31,10 @@ payload:
   # > 腾讯会议
   - PROCESS-NAME,wemeetapp.exe
   - PROCESS-NAME,TBSWebRenderer.exe
+  # > WeGame
+  - PROCESS-NAME,wegame.exe
+  - PROCESS-NAME,WGTinyDL.exe
+  - PROCESS-NAME,TenioDL.exe
   # > ToDesk
   - PROCESS-NAME,ToDesk.exe
   # > 向日葵
