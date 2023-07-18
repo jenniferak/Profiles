@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,officeapps.live.com
 # > cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,paypal.cn
 # > 云闪付
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cup.com.cn
