@@ -1,3 +1,6 @@
 # Trakt去广告
 DOMAIN,pubads.g.doubleclick-cn.net
 DOMAIN,googleads.g.doubleclick-cn.net
+
+# Safari应用横幅
+DOMAIN,app-site-association.cdn-apple.com
