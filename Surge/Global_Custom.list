@@ -113,10 +113,6 @@ DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitter-static.net
 DOMAIN-SUFFIX,gitter.im
-DOMAIN-SUFFIX,rocketgirls.space
-DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,authy.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
@@ -131,35 +127,13 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN,lancellc.gitbook.io
 DOMAIN,docs.cfw.lbyczf.com
 DOMAIN-SUFFIX,divineengine.net
-DOMAIN,www.ipaddressguide.com
-DOMAIN-SUFFIX,dandanplay.net
-DOMAIN-SUFFIX,infuse.im
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,stripe.network
-DOMAIN-SUFFIX,stripecdn.com
+DOMAIN,subweb.s3.fr-par.scw.cloud
+DOMAIN-SUFFIX,eu.org
 
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN,mozilla.cloudflare-dns.com
-DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,revenuecat.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,sectigo.com
-DOMAIN-SUFFIX,lencr.org
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,digitalcertvalidation.com
-DOMAIN-SUFFIX,usertrust.com
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,workingcopyapp.com
-DOMAIN-SUFFIX,livechatinc.com
-DOMAIN,api.snapkit.com
-DOMAIN-SUFFIX,utteranc.es
-DOMAIN-SUFFIX,rul.ai
-DOMAIN,subweb.s3.fr-par.scw.cloud
-DOMAIN-SUFFIX,eu.org
 
 DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,misaka.io
@@ -184,6 +158,8 @@ DOMAIN-SUFFIX,bwg.net
 DOMAIN,ping0.cc
 DOMAIN-SUFFIX,nodeseek.com
 
+DOMAIN-SUFFIX,rocketgirls.space
+DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,69park.com
 DOMAIN-SUFFIX,woowoowoo.xyz
 
