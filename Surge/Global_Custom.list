@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,vo.msecnd.net
 # > 1Password
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,pwnedpasswords.com
 
