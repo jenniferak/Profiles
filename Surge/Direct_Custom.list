@@ -82,12 +82,6 @@ DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,clarivate.io
 DOMAIN-SUFFIX,publons.com
 
-DOMAIN-KEYWORD,www.yydstxt.
-DOMAIN-KEYWORD,yydstxt426.com
-DOMAIN-KEYWORD,diyibanzhu.cc
-DOMAIN-KEYWORD,yydstxt178.com
-DOMAIN-SUFFIX,01bzvip1.cc
-
 IP-CIDR,172.10.255.9/32,no-resolve
 IP-CIDR,202.200.123.8/32,no-resolve
 IP-CIDR,123.123.123.123/32,no-resolve
