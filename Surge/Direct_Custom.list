@@ -66,8 +66,6 @@ DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oray.net
 # > 测速网
 DOMAIN-SUFFIX,speedtest.cn
-# > PikPak
-DOMAIN-SUFFIX,mypikpak.com
 # > 学术
 DOMAIN-SUFFIX,editorialmanager.com
 DOMAIN-KEYWORD,elsevier
