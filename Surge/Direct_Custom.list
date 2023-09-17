@@ -66,6 +66,9 @@ DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oray.net
 # > 测速网
 DOMAIN-SUFFIX,speedtest.cn
+# > 多邻国
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
 # > 学术
 DOMAIN-SUFFIX,editorialmanager.com
 DOMAIN-KEYWORD,elsevier
