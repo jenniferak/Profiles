@@ -15,6 +15,7 @@ payload:
   - PROCESS-NAME,yundetectservice.exe
   # > 阿里云盘
   - PROCESS-NAME,aDrive.exe
+  - PROCESS-NAME,syncappserver.exe
   # > 迅雷
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,DownloadSDKServer.exe
