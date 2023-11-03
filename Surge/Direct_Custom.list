@@ -85,9 +85,10 @@ DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-KEYWORD,webofscience
+DOMAIN-SUFFIX,clarivate.cn
 DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,clarivate.com.cn
 DOMAIN-SUFFIX,clarivate.io
-DOMAIN-SUFFIX,publons.com
 
 IP-CIDR,172.10.255.9/32,no-resolve
 IP-CIDR,202.200.123.8/32,no-resolve
