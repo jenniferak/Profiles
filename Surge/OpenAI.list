@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,stripe.com
 
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,openaicom.imgix.net
+
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
