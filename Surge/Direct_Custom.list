@@ -13,23 +13,38 @@ DOMAIN-SUFFIX,officeapps.live.com
 # > cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.cn
+# > 测速网
+DOMAIN-SUFFIX,speedtest.cn
+# > 彩云
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,colorfulclouds.net
+DOMAIN-SUFFIX,cyapi.cn
+DOMAIN-SUFFIX,caiyuncdn.com
+# > 欧路词典
+DOMAIN-SUFFIX,eudic.net
+DOMAIN-SUFFIX,esdict.cn
+DOMAIN-SUFFIX,frdic.com
+# > 字节补充
+DOMAIN-SUFFIX,byteactivity12.com
+DOMAIN-SUFFIX,fqnovelstatic.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytemaimg.com
+DOMAIN-SUFFIX,snssdk.com
+# > 小红书
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,fengkongcloud.com
+# > 豆瓣
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,douban.fm
 # > 云闪付
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cup.com.cn
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,xaykt.com
 DOMAIN-SUFFIX,globalsign.com
-# > 番茄小说
-DOMAIN-SUFFIX,fqnovel.com
-DOMAIN-SUFFIX,fqnovelpic.com
-DOMAIN-SUFFIX,fqnovelvod.com
-DOMAIN-SUFFIX,fqnovelstatic.com
-DOMAIN-SUFFIX,bytegecko.com
-DOMAIN-SUFFIX,bytemaimg.com
-# > 欧路词典
-DOMAIN-SUFFIX,eudic.net
-DOMAIN-SUFFIX,esdict.cn
-DOMAIN-SUFFIX,frdic.com
 # > 中国银行
 DOMAIN-SUFFIX,boc.cn
 # > 中国农业银行
@@ -63,17 +78,15 @@ IP-CIDR,188.116.30.0/24,no-resolve
 DOMAIN-SUFFIX,cmlink.com
 # > 中国电信
 DOMAIN-SUFFIX,189.cn
+# > 多邻国
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
 # > Todesk
 DOMAIN-SUFFIX,todesk.com
 # > 向日葵
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oray.net
-# > 测速网
-DOMAIN-SUFFIX,speedtest.cn
-# > 多邻国
-DOMAIN-SUFFIX,duolingo.com
-DOMAIN-SUFFIX,duolingo.cn
 # > 学术
 DOMAIN-SUFFIX,editorialmanager.com
 DOMAIN-KEYWORD,elsevier
