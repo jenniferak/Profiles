@@ -47,6 +47,9 @@ DOMAIN-SUFFIX,xaykt.com
 DOMAIN-SUFFIX,globalsign.com
 # > 中国银行
 DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bankofchina.com
+# > 中国工商银行
+DOMAIN-SUFFIX,icbc.com.cn
 # > 中国农业银行
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.com.cn
