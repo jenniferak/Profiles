@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.cn
 # > 测速网
 DOMAIN-SUFFIX,speedtest.cn
+# > ITDOG
+DOMAIN-SUFFIX,itdog.cn
 # > 彩云
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,colorfulclouds.net
