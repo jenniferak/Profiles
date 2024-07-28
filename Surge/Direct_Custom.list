@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,officeapps.live.com
 # > cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.cn
+# > 华润
+DOMAIN-SUFFIX,crc.com.cn
+DOMAIN-SUFFIX,crdigital.com.cn
 # > 测速网
 DOMAIN-SUFFIX,speedtest.cn
 # > ITDOG
