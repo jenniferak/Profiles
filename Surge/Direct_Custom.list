@@ -53,6 +53,10 @@ DOMAIN-SUFFIX,globalsign.com
 # > 中国银行
 DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,bankofchina.com
+# > 中银香港
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochk01.etnet.com.hk
+DOMAIN-SUFFIX,bochk02.etnet.com.hk
 # > 中国工商银行
 DOMAIN-SUFFIX,icbc.com.cn
 # > 中国建设银行
@@ -67,6 +71,8 @@ DOMAIN-SUFFIX,ipify.org
 # > 招商银行
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
+# > HSBC
+DOMAIN-SUFFIX,hsbc.com.hk
 # > 华为
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,hicloud.com
