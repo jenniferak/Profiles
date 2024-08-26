@@ -78,6 +78,9 @@ DOMAIN-SUFFIX,zajourney.com
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zafinsvc.com
 DOMAIN-SUFFIX,zaticdn.com
+# > 旅客八达通
+DOMAIN-SUFFIX,octopus-cards.com
+DOMAIN-SUFFIX,octopus.com.hk
 # > 华为
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,hicloud.com
