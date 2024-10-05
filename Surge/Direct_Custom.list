@@ -59,6 +59,8 @@ DOMAIN-SUFFIX,bochk01.etnet.com.hk
 DOMAIN-SUFFIX,bochk02.etnet.com.hk
 # > 中国工商银行
 DOMAIN-SUFFIX,icbc.com.cn
+# > 工银亚洲
+DOMAIN-SUFFIX,icbcasia.com
 # > 中国建设银行
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,ccb.com.cn
