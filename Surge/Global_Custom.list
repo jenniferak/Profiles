@@ -37,6 +37,11 @@ DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,1passwordusercontent.com
 DOMAIN-SUFFIX,1passwordusercontent.eu
 DOMAIN-SUFFIX,1passwordusercontent.ca
+# > PikPak
+DOMAIN-SUFFIX,mypikpak.com,PikPak
+DOMAIN-SUFFIX,mypikpak.net,PikPak
+DOMAIN-SUFFIX,pikpakdrive.com,PikPak
+DOMAIN-SUFFIX,pikpak.me,PikPak
 
 # 其他域名
 DOMAIN,accounts.brex.com
