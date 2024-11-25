@@ -1,14 +1,18 @@
 payload:
   # 自定义
-  # Win
-  # > OneDrive
-  - PROCESS-NAME,OneDrive.exe
-  - PROCESS-NAME,OneDriveUpdaterService.exe
+  # > 1Password
+  - PROCESS-NAME,1Password.exe
+  - PROCESS-NAME,com.agilebits.onepasswor
+  # > Authy
+  - PROCESS-NAME,Authy Desktop.exe
   # > Dropbox
   - PROCESS-NAME,Dropbox.exe
   - PROCESS-NAME,DropboxUpdate.exe
-  # > Authy
-  - PROCESS-NAME,Authy Desktop.exe
+  # > OneDrive
+  - PROCESS-NAME,OneDrive.exe
+  - PROCESS-NAME,OneDriveUpdaterService.exe
+  # > PikPak
+  - PROCESS-NAME,PikPak.exe 
   # Android
   # > Google服务
   - PROCESS-NAME,com.google.android.gms
@@ -31,6 +35,3 @@ payload:
   - PROCESS-NAME,com.instagram.android
   - PROCESS-NAME,com.facebook.katana
   - PROCESS-NAME,com.facebook.lite
-  # > 1Password
-  - PROCESS-NAME,1Password.exe
-  - PROCESS-NAME,com.agilebits.onepassword
