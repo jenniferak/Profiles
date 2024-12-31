@@ -6,8 +6,9 @@ DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
-#> Apple订阅修正
+# > Apple修正
 DOMAIN,speedysub.itunes.apple.com
+DOMAIN-SUFFIX,apple.com.cn
 # > Office Download
 DOMAIN,officecdn.microsoft.com
 DOMAIN-SUFFIX,cdn.office.net
