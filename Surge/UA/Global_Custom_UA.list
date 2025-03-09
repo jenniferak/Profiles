@@ -1,8 +1,4 @@
 # 自定义
 USER-AGENT,Twitter*
 USER-AGENT,Instagram*
-# > OneDrive
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
 USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
