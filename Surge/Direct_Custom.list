@@ -34,9 +34,6 @@ DOMAIN-SUFFIX,esdict.cn
 DOMAIN-SUFFIX,frdic.com
 # > 字节补充
 DOMAIN-SUFFIX,byteactivity12.com
-DOMAIN-SUFFIX,fqnovelstatic.com
-DOMAIN-SUFFIX,bytegecko.com
-DOMAIN-SUFFIX,bytemaimg.com
 DOMAIN-SUFFIX,snssdk.com
 # > 小红书
 DOMAIN-SUFFIX,xiaohongshu.com
@@ -47,6 +44,8 @@ DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douban.fm
+# > Deepseek
+DOMAIN-SUFFIX,deepseek.com
 # > 云闪付
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cup.com.cn
