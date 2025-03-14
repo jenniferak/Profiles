@@ -28,6 +28,34 @@ DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,colorfulclouds.net
 DOMAIN-SUFFIX,cyapi.cn
 DOMAIN-SUFFIX,caiyuncdn.com
+# > 航旅纵横
+DOMAIN-SUFFIX,umetrip.com
+DOMAIN-SUFFIX,umetrip.com.cn
+# > 12306
+DOMAIN-SUFFIX,12306.cn
+# > 东方航空
+DOMAIN-SUFFIX,ceair.com
+# > 南方航空
+DOMAIN-SUFFIX,csair.com
+# > 国航
+DOMAIN-SUFFIX,airchina.com.cn
+# > 海南航空
+DOMAIN-SUFFIX,hnair.com
+# > 深圳航空
+DOMAIN-SUFFIX,shenzhenair.com
+# > 智行
+DOMAIN-SUFFIX,c-ctrip.com
+# > 携程
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,tripcdn.cn
+# > 去哪儿
+DOMAIN-SUFFIX,qunar.com
+DOMAIN-SUFFIX,qunarcdn.com
+DOMAIN-SUFFIX,qunarzz.com
+# > 同程
+DOMAIN-SUFFIX,17usoft.com
+DOMAIN-SUFFIX,40017.cn
+DOMAIN-SUFFIX,17u.cn
 # > 欧路词典
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,esdict.cn
@@ -46,6 +74,25 @@ DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douban.fm
 # > Deepseek
 DOMAIN-SUFFIX,deepseek.com
+# > 123云盘
+DOMAIN-SUFFIX,123pan.com
+# > Wps
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wpscdn.cn
+# > 小米
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,mifile.cn
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,mi-fds.com
+# > 滴滴
+DOMAIN-SUFFIX,xiaojukeji.com
+DOMAIN-SUFFIX,didi.cn
+DOMAIN-SUFFIX,diditaxi.com.cn
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,udache.com
 # > 云闪付
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cup.com.cn
