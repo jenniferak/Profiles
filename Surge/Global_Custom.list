@@ -42,6 +42,8 @@ DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,pikpak.me
+# > Trakt
+DOMAIN-SUFFIX,trakt.tv
 
 # 其他域名
 DOMAIN-SUFFIX,gitlab.com
