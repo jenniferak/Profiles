@@ -1,8 +1,16 @@
-PROCESS-NAME,QQ
-PROCESS-NAME,"QQ Helper"
-PROCESS-NAME,WeChat*
-PROCESS-NAME,抖音*
-PROCESS-NAME,哔哩哔哩*
-PROCESS-NAME,QQLive*,DIRECT
+# > 微信
+PROCESS-NAME,/Applications/WeChat.app/
+# > QQ
+PROCESS-NAME,/Applications/QQ.app/
+# > 阿里云盘
+PROCESS-NAME,/Applications/aDrive.app/
+# > 抖音
+PROCESS-NAME,/Applications/抖音.app/
+# > 哔哩哔哩
+PROCESS-NAME,/Applications/哔哩哔哩.app/
+# > 腾讯视频
+PROCESS-NAME,/Applications/QQLive.app/
 # > 小红书
 PROCESS-NAME,discover
+# > 全球网测
+PROCESS-NAME,TaierSpeed
