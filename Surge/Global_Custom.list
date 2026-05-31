@@ -59,7 +59,7 @@ DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion-static.com
 
 DOMAIN-SUFFIX,nssurge.com
-DOMAIN,www.surge-activation.com
+DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,getsurfboard.com
 DOMAIN-SUFFIX,metacubex.one
@@ -95,17 +95,24 @@ DOMAIN-SUFFIX,virmach.com
 DOMAIN-SUFFIX,vpsgo.com
 DOMAIN-SUFFIX,bandwagonhost.net
 DOMAIN-SUFFIX,bwg.net
-DOMAIN,ping0.cc
+DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,ahhhhfs.com
+
+
 
 DOMAIN-SUFFIX,oyunfor.com
 
-# > 探花社区
-DOMAIN-SUFFIX,navix.site
+
 
 DOMAIN-SUFFIX,chunman4.com
-DOMAIN-SUFFIX,69park.com
+DOMAIN-SUFFIX,cool18.com
+DOMAIN-SUFFIX,sis001.com
+DOMAIN-SUFFIX,51cg1.com
+DOMAIN-SUFFIX,chigua.com
+DOMAIN-SUFFIX,cgw666.com
+DOMAIN-SUFFIX,alicesw.com
 
 DOMAIN-SUFFIX,jmcomic1.bet
 DOMAIN-SUFFIX,jmcomic2.bet

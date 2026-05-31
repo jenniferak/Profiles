@@ -1,5 +1,6 @@
-PROCESS-NAME,"PikPak Helper"
-PROCESS-NAME,PikPlayer
-PROCESS-NAME,OneDrive*
-PROCESS-NAME,"Microsoft Outlook"
-PROCESS-NAME,1Password
+# > 1Password
+PROCESS-NAME,/Applications/1Password.app/
+# > OneDrive
+PROCESS-NAME,/Applications/OneDrive.app/
+# > PikPak
+PROCESS-NAME,/Applications/PikPak.app/
