@@ -4,3 +4,9 @@ PROCESS-NAME,/Applications/1Password.app/
 PROCESS-NAME,/Applications/OneDrive.app/
 # > PikPak
 PROCESS-NAME,/Applications/PikPak.app/
+# > ChatGPT
+PROCESS-NAME,/Applications/ChatGPT.app/
+# > Copilot
+PROCESS-NAME,/Applications/Copilot.app/
+# > Gemini
+PROCESS-NAME,/Applications/Gemini.app/

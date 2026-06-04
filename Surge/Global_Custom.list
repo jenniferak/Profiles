@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN,mozilla.cloudflare-dns.com
 
+DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,misaka.io
 DOMAIN-SUFFIX,indovirtue.com
@@ -97,13 +98,9 @@ DOMAIN-SUFFIX,bandwagonhost.net
 DOMAIN-SUFFIX,bwg.net
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,ahhhhfs.com
-
-
-
-DOMAIN-SUFFIX,oyunfor.com
-
 
 
 DOMAIN-SUFFIX,chunman4.com
